@@ -6,11 +6,10 @@
 </p>
 
 ---
-### 👨‍💻 Về tôi:
-- 🎓 Hiện đang là **sinh viên năm 3**
-- 📱 Có đam mê lập trình mobile (Flutter, React Native, Kotlin, Swift)
-- 💡 Tôi muốn trở thành một **thành viên dài hạn**, đóng góp và phát triển cùng với công ty
-- 📫 **Cách liên lạc với tôi**: `TruongSondat11@gmail.com`
+### 👨‍💻 About me:
+- 🎓 is currently ** 3rd year student **
+- 📱 Having a passion for mobile programming (Flutter, React Native, Kotlin, Swift)
+- 💡 I want to become a long -term member **, contribute and develop with the company
 
 ---
 
