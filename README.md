@@ -6,10 +6,11 @@
 </p>
 
 ---
-
-### 👨‍💻 About Me:
-- 💡 I want to become a long-term team member and grow with the company
-- 📫 How to reach me: `truongsondat11@gmail.com`
+### 👨‍💻 Về tôi:
+- 🎓 Hiện đang là **sinh viên năm 3**
+- 📱 Có đam mê lập trình mobile (Flutter, React Native, Kotlin, Swift)
+- 💡 Tôi muốn trở thành một **thành viên dài hạn**, đóng góp và phát triển cùng với công ty
+- 📫 **Cách liên lạc với tôi**: `TruongSondat11@gmail.com`
 
 ---
 
