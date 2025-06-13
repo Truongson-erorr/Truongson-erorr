@@ -8,12 +8,8 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **mobile projects using Flutter & React Native**
-- 🌱 I’m currently learning **Kotlin and Swift**
-- 🤝 I’m looking to collaborate on **open-source mobile apps**
-- 💬 Ask me about **Flutter, Firebase, and Mobile UI/UX**
 - 💡 I want to become a long-term team member and grow with the company
-- 📫 How to reach me: `your_email@example.com`
+- 📫 How to reach me: `truongsondat11@gmail.com`
 
 ---
 
