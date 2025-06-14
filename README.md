@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Truong Son</h1>
+<h1 align="center">Hi 👋, I'm Cao Nien Truong Son</h1>
 <h3 align="center">🚀 Mobile Developer with a passion for growth and contribution 💚</h3>
 
 <p align="center">
