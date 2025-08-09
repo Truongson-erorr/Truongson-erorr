@@ -7,6 +7,15 @@
 
 ---
 
+## 🧠 About Me
+
+- 🔭 I’m currently building Android apps with **Jetpack Compose** and **Firebase**
+- 🌱 I’m always learning more about **Clean Architecture**, **Dependency Injection**, and **Performance optimization**
+- 💬 I love discussing about **mobile app performance**, **UI/UX design**, and **scalable architecture**
+- 🎯 My goal: **Create impactful apps that help people in their daily life**
+
+---
+
 ### 🧑‍💻 Tech Stack & Tools
 
 #### 📱 Android & Mobile
@@ -35,14 +44,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-### 🧠 About Me
-
-- 🔭 I’m currently building Android apps with **Jetpack Compose** and **Firebase**
-- 🌱 I’m always learning more about **Clean Architecture**, **Dependency Injection**, and **Performance optimization**
-- 💬 I love discussing about **mobile app performance**, **UI/UX design**, and **scalable architecture**
-- 🎯 My goal: **Create impactful apps that help people in their daily life**
 
 
 ---
