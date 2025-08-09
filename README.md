@@ -41,7 +41,9 @@
 
 - 🔭 I’m currently building Android apps with **Jetpack Compose** and **Firebase**
 - 🌱 I’m always learning more about **Clean Architecture**, **Dependency Injection**, and **Performance optimization**
-- 🤝 I’m open to **collaboration** and **contribution** to open-source
+- 💬 I love discussing about **mobile app performance**, **UI/UX design**, and **scalable architecture**
+- 🎯 My goal: **Create impactful apps that help people in their daily life**
+
 
 ---
 
@@ -53,9 +55,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truongson-erorr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+---
 
+### 🎯 Current Focus
 
-
+- 📱 **Improving Jetpack Compose skills**: mastering animations, state management, and best UI practices  
+- ☁️ **Deep diving into Firebase**: Firestore optimization, Cloud Functions, and authentication flows  
+- 🛠 **Backend Integration**: building efficient APIs and integrating with mobile apps  
+- 📊 **Performance Tuning**: reducing app startup time and optimizing network calls  
+- 🤝 **Open Source Contribution**: sharing code and collaborating with other developers  
 
 
 ---
