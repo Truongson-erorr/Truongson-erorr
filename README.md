@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Retrofit-3C8DBC?style=for-the-badge" />
 </p>
 
-#### 🖥️ Backend & Web
+#### 🖥️ Backend 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23%20MVC-68217A?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
