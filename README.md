@@ -6,30 +6,32 @@
 </p>
 
 ---
-
 ### 🧑‍💻 Tech Stack & Tools
 
 #### 📱 Android & Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-architecture-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Room%20DB-%23f4a261.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrofit-3C8DBC?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-architecture-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Room%20DB-%23f4a261.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit-3C8DBC?style=for-the-badge" />
 </p>
 
 #### 🖥️ Backend & Web
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23%20MVC-68217A?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ADO.NET-%23239120?style=for-the-badge&logo=.net&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23%20MVC-68217A?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADO.NET-%23239120?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 #### ⚙️ Tools & Others
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-00BFA5?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-00BFA5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
