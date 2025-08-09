@@ -59,9 +59,20 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; max-width: 850px; margin: auto;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; max-width: 850px; margin: auto;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Truongson-erorr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="flex: 1 1 300px; max-width: 300px;" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Truongson-erorr&theme=radical&hide_border=true" alt="GitHub Streak" style="flex: 1 1 300px; max-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truongson-erorr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="flex: 1 1 200px; max-width: 200px;" />
+</div>
+
 
 ---
 
