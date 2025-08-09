@@ -49,11 +49,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: fit-content; margin: 0 auto;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Truongson-erorr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Truongson-erorr&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truongson-erorr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Truongson-erorr&show_icons=true&theme=radical&hide_border=true&cache_seconds=60" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Truongson-erorr&theme=radical&hide_border=true&cache_seconds=60" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truongson-erorr&layout=compact&theme=radical&hide_border=true&cache_seconds=60" alt="Top Languages" />
 </div>
+
 
 ---
 
