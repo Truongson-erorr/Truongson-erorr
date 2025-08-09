@@ -21,7 +21,7 @@
 #### 🖥️ Backend & Web
 <p align="left">
   <img src="https://img.shields.io/badge/C%23%20MVC-68217A?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADO.NET-%23239120?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
