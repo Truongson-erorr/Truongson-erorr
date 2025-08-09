@@ -9,19 +9,23 @@
 
 ### 🧑‍💻 Tech Stack & Tools
 
+#### 📱 Android & Mobile
 <p align="center">
-  <!-- Mobile & Android -->
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVVM-architecture-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Room%20DB-%23f4a261.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Retrofit-3C8DBC?style=for-the-badge"/>
+</p>
 
-  <!-- Backend & Web -->
+#### 🖥️ Backend & Web
+<p align="center">
   <img src="https://img.shields.io/badge/C%23%20MVC-68217A?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/ADO.NET-%23239120?style=for-the-badge&logo=.net&logoColor=white"/>
+</p>
 
-  <!-- Other Tech -->
+#### ⚙️ Tools & Others
+<p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -49,13 +53,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truongson-erorr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -70,6 +73,4 @@
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."*
-
----
+💡 **Thanks for reading my GitHub!** 🚀
