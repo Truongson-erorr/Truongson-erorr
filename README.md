@@ -67,7 +67,11 @@
 - 📊 **Performance Tuning**: reducing app startup time and optimizing network calls  
 - 🤝 **Open Source Contribution**: sharing code and collaborating with other developers  
 
-
+---
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=radical&margin-w=15&margin-h=15" />
+</div>
 ---
 
 ### 🤝 Let's Connect
