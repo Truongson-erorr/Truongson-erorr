@@ -1,11 +1,4 @@
-<h1 align="center" style="font-size: 42px;">👋 Hi there, I'm <span style="color:#00bfa6;">Cao Nien Truong Son</span></h1>
-<h3 align="center" style="font-weight: normal;">🚀 A passionate Mobile Developer who loves building and growing 💚</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Mobile+Development+is+my+passion;I+love+learning+and+contributing;Let's+build+great+things+together!" alt="Typing SVG" />
-</p>
-
----
 
 # 🧠 About Me
 
