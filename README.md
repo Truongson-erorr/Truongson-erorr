@@ -1,11 +1,21 @@
 
 
-# 🧠 About Me
+# 🧑‍🎓 About Me
 
 - 🔭 I’m currently building Android apps with **Jetpack Compose** and **Firebase**
 - 🌱 I’m always learning more about **Clean Architecture**, **Dependency Injection**, and **Performance optimization**
 - 💬 I love discussing about **mobile app performance**, **UI/UX design**, and **scalable architecture**
 - 🎯 My goal: **Create impactful apps that help people in their daily life**
+
+---
+
+### 🎯 Current Focus
+
+- 📱 **Improving Jetpack Compose skills**: mastering animations, state management, and best UI practices  
+- ☁️ **Deep diving into Firebase**: Firestore optimization, Cloud Functions, and authentication flows  
+- 🛠 **Backend Integration**: building efficient APIs and integrating with mobile apps  
+- 📊 **Performance Tuning**: reducing app startup time and optimizing network calls  
+- 🤝 **Open Source Contribution**: sharing code and collaborating with other developers
 
 ---
 
@@ -44,31 +54,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Truongson-erorr&show_icons=true&theme=radical&hide_border=true&cache_seconds=60" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Truongson-erorr&theme=radical&hide_border=true&cache_seconds=60" alt="GitHub Streak" />
 
 </div>
 
-
 ---
 
-### 🎯 Current Focus
 
-- 📱 **Improving Jetpack Compose skills**: mastering animations, state management, and best UI practices  
-- ☁️ **Deep diving into Firebase**: Firestore optimization, Cloud Functions, and authentication flows  
-- 🛠 **Backend Integration**: building efficient APIs and integrating with mobile apps  
-- 📊 **Performance Tuning**: reducing app startup time and optimizing network calls  
-- 🤝 **Open Source Contribution**: sharing code and collaborating with other developers  
-
----
-### 🏆 Achievements & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=onedark&no-frame=false&margin-w=15&margin-h=15" />
-</div>
-
-
-
----
 ### 🤝 Let's Connect
 
 <p align="center">
