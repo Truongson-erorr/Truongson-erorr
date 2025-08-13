@@ -70,11 +70,9 @@
 ---
 ### 🏆 Achievements & Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-  <br/>
-  <img src="https://img.shields.io/badge/🏆-Top%20Contributor-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/🏆-Open%20Source-00bfff?style=for-the-badge&logo=github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=onedark&no-frame=false&margin-w=15&margin-h=15" />
 </div>
+
 
 
 ---
