@@ -70,9 +70,9 @@
 ---
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Truongson-erorr&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 </div>
----
+
 
 ### 🤝 Let's Connect
 
