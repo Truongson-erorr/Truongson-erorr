@@ -1,6 +1,6 @@
 
 
-# 🧑‍🎓 About Me
+## About Me
 
 - 🔭 I’m currently building Android apps with **Jetpack Compose** and **Firebase**
 - 🌱 I’m always learning more about **Clean Architecture**, **Dependency Injection**, and **Performance optimization**
