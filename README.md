@@ -2,7 +2,7 @@
 
 # About Me
 
-I born in 2004 with a strong passion for building Android applications. I’m currently focusing on Jetpack Compose and Firebase, while continuously learning more about Clean Architecture, Dependency Injection, and performance optimization. I enjoy exploring topics around mobile app performance, UI/UX design, and scalable architecture. My ultimate goal is to create impactful and user-friendly applications that truly meet people’s needs and make their daily lives easier. 🌱
+I born in 2004 with a strong passion for building Android applications. I’m currently focusing on Jetpack Compose and Firebase, while continuously learning more about Clean Architecture, Dependency Injection, and performance optimization. I enjoy exploring topics around mobile app performance, UI/UX design, and scalable architecture. My ultimate goal is to create impactful and user-friendly applications that truly meet people’s needs and make their daily lives easier. 🍀
 
 ---
 
