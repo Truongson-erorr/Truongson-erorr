@@ -1,21 +1,21 @@
 
 
-## About Me
+# About Me
 
-- 🔭 I’m currently building Android apps with **Jetpack Compose** and **Firebase**
-- 🌱 I’m always learning more about **Clean Architecture**, **Dependency Injection**, and **Performance optimization**
-- 💬 I love discussing about **mobile app performance**, **UI/UX design**, and **scalable architecture**
-- 🎯 My goal: **Create impactful apps that help people in their daily life**
+- I’m currently building Android apps with **Jetpack Compose** and **Firebase**
+- I’m always learning more about **Clean Architecture**, **Dependency Injection**, and **Performance optimization**
+- I love discussing about **mobile app performance**, **UI/UX design**, and **scalable architecture**
+- My goal: **Create impactful apps that help people in their daily life**
 
 ---
 
-### 🎯 Current Focus
+## Current Focus
 
-- 📱 **Improving Jetpack Compose skills**: mastering animations, state management, and best UI practices  
-- ☁️ **Deep diving into Firebase**: Firestore optimization, Cloud Functions, and authentication flows  
-- 🛠 **Backend Integration**: building efficient APIs and integrating with mobile apps  
-- 📊 **Performance Tuning**: reducing app startup time and optimizing network calls  
-- 🤝 **Open Source Contribution**: sharing code and collaborating with other developers
+- **Improving Jetpack Compose skills**: mastering animations, state management, and best UI practices  
+- **Deep diving into Firebase**: Firestore optimization, Cloud Functions, and authentication flows  
+- **Backend Integration**: building efficient APIs and integrating with mobile apps  
+- **Performance Tuning**: reducing app startup time and optimizing network calls  
+- **Open Source Contribution**: sharing code and collaborating with other developers
 
 ---
 
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Truongson-erorr&theme=radical&hide_border=true&cache_seconds=60" alt="GitHub Streak" />
@@ -65,11 +65,10 @@
 
 <p align="center">
   <a href="mailto:soncaonientruong@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/trson.1012"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cao-ni%C3%AAn-tr%C6%B0%E1%BB%9Dng-s%C6%A1n-413a36353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
 ---
 
-💡 **Thanks for reading my GitHub!** 🚀
+💡 **Thanks for reading my GitHub! Have a nice day.** 
