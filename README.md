@@ -1,71 +1,21 @@
+# About Me  
 
+I was born in 2004 and have a strong passion for Android development. I enjoy transforming creative ideas into practical, user-friendly applications that make people’s lives easier and more enjoyable. As a developer, I constantly challenge myself to learn new technologies, explore modern architectures, and write clean, maintainable, and efficient code. I value the balance between beautiful design and technical excellence, believing that a truly great app must deliver both strong performance and a seamless user experience. 📱
 
-# About Me
+In the near future, my short-term goals include building and publishing my own Android apps on Google Play. I also aim to strengthen my understanding of software testing, CI/CD, and performance optimization, while contributing to open-source projects to learn from real-world collaboration. 🎯
 
-I born in 2004 with a strong passion for building Android applications. I’m currently focusing on Jetpack Compose and Firebase, while continuously learning more about Clean Architecture, Dependency Injection, and performance optimization. I enjoy exploring topics around mobile app performance, UI/UX design, and scalable architecture. My ultimate goal is to create impactful and user-friendly applications that truly meet people’s needs and make their daily lives easier. 🍀
+In the long run, I aspire to become a professional Android Developer capable of leading the development of innovative mobile products that solve real-world problems. I want to mentor junior developers, contribute to the growth of the developer community, and work in a team that values creativity, continuous improvement, and user-centered design. My goal is to build meaningful applications that positively impact millions of users around the world. 🌍
 
----
+I believe in continuous learning and improvement. To me, every line of code is an opportunity to learn something new — not just about programming, but also about problem-solving, collaboration, and critical thinking. I highly value simplicity because clear and concise code lasts longer, collaboration because great apps are built by great teams, responsibility because every decision in development affects the user experience, and curiosity because technology never stops evolving. 🧠
 
-## 🔥 Current Focus
+I want to contribute to projects that emphasize high-quality Android apps with modern design and architecture, open-source initiatives that empower other developers, and products that make everyday life simpler, smarter, and more connected. Beyond coding, I aspire to share knowledge, write technical articles, and collaborate with passionate developers who share the same vision of growth and innovation. 🤝🍀
 
-- 🎬 **Improving Jetpack Compose skills**: mastering animations, state management, and best UI practices  
-- ☁️ **Deep diving into Firebase**: Firestore optimization, Cloud Functions, and authentication flows  
-- 🔗 **Backend Integration**: building efficient APIs and integrating with mobile apps  
-- ⚡ **Performance Tuning**: reducing app startup time and optimizing network calls  
-- 🤝 **Open Source Contribution**: sharing code and collaborating with other developers  
-
----
-
-### 🧑‍💻 Tech Stack & Tools
-
-#### 📱 Android & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%23000000.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-architecture-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Room%20DB-%23f4a261.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-3C8DBC?style=for-the-badge" />
-</p>
-
-#### 🖥️ Backend 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23%20MVC-68217A?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-#### ⚙️ Tools & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-00BFA5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Truongson-erorr&theme=radical&hide_border=true&cache_seconds=60" alt="GitHub Streak" />
-
-</div>
-
----
-
-
-### 🤝 Let's Connect
+## Connect with Me  
 
 <p align="center">
-  <a href="mailto:soncaonientruong@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cao-ni%C3%AAn-tr%C6%B0%E1%BB%9Dng-s%C6%A1n-413a36353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:soncaonientruong@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=30"/></a>
+  <a href="https://www.linkedin.com/in/cao-ni%C3%AAn-tr%C6%B0%E1%BB%9Dng-s%C6%A1n-413a36353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=30"/></a>
 </p>
 
+*Thanks for visiting my profile!*  
 
----
-
-💡 **Thanks for reading my GitHub! Have a nice day.** 
